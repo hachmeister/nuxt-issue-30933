@@ -1,6 +1,5 @@
 <script setup>
 const content = ref('before')
-//const content = useState(() => 'before')
 </script>
 
 <template>
